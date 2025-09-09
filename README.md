@@ -40,3 +40,8 @@ Implemented and evaluated three machine learning algorithms:
 - **Matplotlib, Seaborn** → Data visualization  
 - **Scikit-learn** → Machine learning models & evaluation  
 - **Joblib** → Model persistence 
+
+### 5. Screen Shots
+
+### Model Accuracy
+![Model Accuracy](screenshots/accuracy.png)
