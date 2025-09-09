@@ -47,17 +47,17 @@ Implemented and evaluated three machine learning algorithms:
 ## 📸 Project Screenshots  
 
 ### 1. Passenger Class vs Survival
-![Pclass Survival](screenshots/_pclass.png)
+![Pclass Survival](screen shots/pclass.png)
 
 ### 2. Gender-wise Survival
-![Gender Survival](screenshots/_gender.png)
+![Gender Survival](screen shots/gender.png)
 
 
-### 4. Accuracy Report
-![accuracy](screenshots/accuracy.png)
+### 3. Accuracy Report
+![accuracy](screen shots/accuracy.png)
 
-### 5. Feature Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+### 4. Feature Correlation Heatmap
+![Heatmap](screen shots/heatmap.png)
 
 
 
