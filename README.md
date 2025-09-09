@@ -47,13 +47,11 @@ Implemented and evaluated three machine learning algorithms:
 ## 📸 Project Screenshots  
 
 ### 1. Passenger Class vs Survival
-![Pclass Survival](screenshots/eda_class.png)
+![Pclass Survival](screenshots/_pclass.png)
 
 ### 2. Gender-wise Survival
-![Gender Survival](screenshots/eda_gender.png)
+![Gender Survival](screenshots/_gender.png)
 
-### 3. Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ### 4. Accuracy Report
 ![Accuracy](screenshots/accuracy.png)
@@ -61,6 +59,5 @@ Implemented and evaluated three machine learning algorithms:
 ### 5. Feature Correlation Heatmap
 ![Heatmap](screenshots/heatmap.png)
 
-### 6. Code Example
-![Code Example](screenshots/code.png)
+
 
