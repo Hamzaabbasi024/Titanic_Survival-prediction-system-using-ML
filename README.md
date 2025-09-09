@@ -54,7 +54,7 @@ Implemented and evaluated three machine learning algorithms:
 
 
 ### 4. Accuracy Report
-![Accuracy](screenshots/accuracy.png)
+![accuracy](screenshots/accuracy.png)
 
 ### 5. Feature Correlation Heatmap
 ![Heatmap](screenshots/heatmap.png)
